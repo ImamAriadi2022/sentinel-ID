@@ -148,7 +148,7 @@ function App() {
                   <div className="d-flex justify-content-between align-items-start mb-4">
                     <div>
                       <p className="text-secondary small mb-1">Sentinel Mobile Banking</p>
-                      <h4 className="fw-bold mb-0">Halo, Budi Santoso</h4>
+                      <h4 className="fw-bold mb-0">Halo, Anzim tim</h4>
                     </div>
                     <Badge bg="primary" pill>
                       Active Shield
